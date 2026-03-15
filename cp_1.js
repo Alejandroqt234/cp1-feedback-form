@@ -7,7 +7,7 @@ const charCount = document.getElementById("charCount");
 
 
 /* character count */
-
+// real time character counter
 comments.addEventListener("input", function(){
 
     let length = comments.value.length;
